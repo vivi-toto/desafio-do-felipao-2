@@ -6,5 +6,5 @@ for (let i = 0; i < quantidadeGolpes; i++) {
 
   let minaIndex = i % minerais.length;
   
-  console.log((i-1) + ":" + minerais[minaIndex]);
+  console.log((i + 1) + ": " + minerais[minaIndex]);
 }
