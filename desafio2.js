@@ -1,4 +1,4 @@
-saldoDeRankeadas(180, 23)
+saldoDeRankeadas(200, 23)
 
 function saldoDeRankeadas(vitorias, derrotas) {
     let saldo = vitorias - derrotas;
